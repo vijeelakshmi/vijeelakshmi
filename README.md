@@ -105,7 +105,7 @@ I'm a fresher **Data Analyst / Data Engineer** who enjoys turning messy, raw dat
 | **Data Analysis with Python & SQL** | Python, Pandas, SQL | Cleaned, transformed, and analyzed real-world datasets | [Repo](https://github.com/vijeelakshmi) |
 | **AI-Powered Firewall Detection** | Python, Machine Learning | ML model to detect anomalous network traffic patterns | [Repo](https://github.com/vijeelakshmi) |
 | **Full-Stack MERN App** | MongoDB, Express, React, Node.js | Full-stack web application with REST API | [Repo](https://github.com/vijeelakshmi) |
-| **AWS Cloud Deployment** | AWS, Docker | Cloud-hosted deployment pipeline for a web application | [Repo](https://github.com/vijeelakshmi) |
+
 
 > ✏️ Replace the `[Repo]` placeholder links above with your actual repository URLs so recruiters can click straight through.
 
