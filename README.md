@@ -75,31 +75,29 @@ I'm a fresher **Data Analyst / Data Engineer** who enjoys turning messy, raw dat
 </p>
 
 <br/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://ghstats.dev/api/card?username=vijeelakshmi&theme=tokyonight" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vijeelakshmi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
 
-<img src="https://ghstats.dev/api/top-langs?username=vijeelakshmi&theme=tokyonight" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijeelakshmi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="42%" />
 
-<img src="https://streak-stats.demolab.com?user=vijeelakshmi&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=vijeelakshmi&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
-<details>
-<summary><b>📈 Contribution Activity Graph</b></summary>
 <br/>
+
+## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijeelakshmi&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijeelakshmi&theme=tokyo-night&hide_border=true" width="100%" />
+
 </div>
 
-</details>
-
 <br/>
-
 
 
 ## 🎯 Featured Projects
