@@ -80,10 +80,11 @@ I'm a fresher **Data Analyst / Data Engineer** who enjoys turning messy, raw dat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vijeelakshmi&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijeelakshmi&layout=compact&hide_border=true&theme=tokyonight" width="42%" alt="Top Languages"/>
+<img src="https://ghstats.dev/api/card?username=vijeelakshmi&theme=tokyonight" width="49%"/>
 
-<img src="https://streak-stats.demolab.com?user=vijeelakshmi&hide_border=true&theme=tokyonight" width="70%" alt="GitHub Streak"/>
+<img src="https://ghstats.dev/api/top-langs?username=vijeelakshmi&theme=tokyonight" width="42%"/>
+
+<img src="https://streak-stats.demolab.com?user=vijeelakshmi&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
