@@ -99,15 +99,7 @@ I'm a fresher **Data Analyst / Data Engineer** who enjoys turning messy, raw dat
 
 <br/>
 
-## 🐍 Contribution Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/vijeelakshmi/vijeelakshmi/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
-</div>
-
-> ℹ️ The snake above renders automatically once the included GitHub Action workflow (`snake.yml`) runs on your profile repo.
-
-<br/>
 
 ## 🎯 Featured Projects
 
@@ -133,13 +125,7 @@ I'm a fresher **Data Analyst / Data Engineer** who enjoys turning messy, raw dat
 
 <br/>
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vijeelakshmi&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</div>
-
-<br/>
 
 ## 🌐 Connect With Me
 
