@@ -82,15 +82,6 @@ I'm a fresher **Data Analyst / Data Engineer** who enjoys turning messy, raw dat
 
 <img src="https://streak-stats.demolab.com?user=vijeelakshmi&theme=tokyonight&hide_border=true" width="80%" />
 
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vijeelakshmi&theme=tokyonight" width="100%" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vijeelakshmi&theme=tokyonight" width="49%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vijeelakshmi&theme=tokyonight" width="49%" />
 
 </div>
 
