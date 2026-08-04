@@ -101,10 +101,10 @@ I'm a fresher **Data Analyst / Data Engineer** who enjoys turning messy, raw dat
 | Project | Tech Stack | Description | Link |
 |---|---|---|---|
 | **Sales Performance Dashboard** | Power BI, SQL | Interactive dashboard analyzing regional sales trends & KPIs | [Repo](https://github.com/vijeelakshmi) |
-| **Business Analytics Dashboard** | Tableau, Excel | End-to-end analytics dashboard for business decision-making | [Repo](https://github.com/vijeelakshmi) |
-| **Data Analysis with Python & SQL** | Python, Pandas, SQL | Cleaned, transformed, and analyzed real-world datasets | [Repo](https://github.com/vijeelakshmi) |
-| **AI-Powered Firewall Detection** | Python, Machine Learning | ML model to detect anomalous network traffic patterns | [Repo](https://github.com/vijeelakshmi) |
-| **Full-Stack MERN App** | MongoDB, Express, React, Node.js | Full-stack web application with REST API | [Repo](https://github.com/vijeelakshmi) |
+| **Retail Analytics Dashboard** | Tableau, Excel | End-to-end analytics dashboard for business decision-making | [Repo](https://github.com/vijeelakshmi/Retail-Sales-Dashboard) |
+| **Airport Flight Delay Analysis** | Python, Tableau, SQL | Cleaned, transformed, and analyzed real-world datasets | [Repo](https://github.com/vijeelakshmi/Airport-Flight-Delay-Analysis) |
+| **AI-Powered Firewall Detection** | Python, Machine Learning | ML model to detect anomalous network traffic patterns | [Repo](https://github.com/vijeelakshmi/Ai-Firewall) |
+| **Ai Real Estate** | MongoDB, Express, React, Node.js | Full-stack web application with REST API | [Repo](https://github.com/vijeelakshmi/ai-real-estate) |
 
 
 > ✏️ Replace the `[Repo]` placeholder links above with your actual repository URLs so recruiters can click straight through.
