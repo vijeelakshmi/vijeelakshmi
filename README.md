@@ -76,6 +76,17 @@ I'm a fresher **Data Analyst / Data Engineer** who enjoys turning messy, raw dat
 
 <br/>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vijeelakshmi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijeelakshmi&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=vijeelakshmi&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 
 ## 📈 Contribution Graph
