@@ -10,7 +10,7 @@
 <a href="https://vijaya-lakshmi-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="mailto:youremail@example.com">
+<a href="mailto:vijaya0835@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/vijeelakshmi">
