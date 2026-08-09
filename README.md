@@ -1,140 +1,111 @@
-<div align="center">
+<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h3 align="center">Data Analyst | Turning raw data into business decisions with SQL, Excel & Power BI</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Vijayalakshmi+R;Aspiring+Data+Analyst+%7C+Data+Engineer;Turning+Raw+Data+into+Real+Decisions" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/vijayalakshmi0808/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://vijaya-lakshmi-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="mailto:vijaya0835@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/vijeelakshmi">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=vijeelakshmi&label=Profile%20Views&color=2E86C1&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/vijeelakshmi?label=Followers&style=for-the-badge&color=2E86C1)
-
-</div>
-
-<br/>
-
-## 🧭 About Me
-
-I'm a fresher **Data Analyst / Data Engineer** who enjoys turning messy, raw data into dashboards, pipelines, and decisions that actually get used. My core focus is **SQL, Python, ETL pipelines, and BI reporting** — with full‑stack and cloud skills that let me build and ship the tools around that data, not just analyze it in isolation.
-
-- 🔎 Data Analysis & Visualization — **SQL, Excel, Power BI, Tableau**
-- 🛠️ Data Engineering fundamentals — **Python, ETL/ELT, Pandas, data pipelines**
-- ☁️ Cloud & Deployment — **AWS**, Docker
-- 🌐 Supporting full‑stack skills — **MERN Stack** (for building internal tools & dashboards)
-- 📚 Currently deepening — **Airflow, dbt, and data warehousing concepts**
-- 🎯 Actively looking for **Data Analyst / Data Engineer** roles (open to remote & on‑site)
-
-<br/>
-
-## 🧰 Tech Stack
-
-**Languages & Core**
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+<p align="center">
+  <a href="https://linkedin.com/in/vijayalakshmi0808"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:vijaya0835@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
-**Data Analytics & BI**
+---
+
+### 📌 About Me
+
+I'm a fresher **Data Analyst** (MCA, 2025) who enjoys turning messy, real-world data into dashboards and insights that support actual business decisions. My core focus is **SQL, Excel, Power BI, Python, and Tableau** — from cleaning raw data to building KPI dashboards that answer specific business questions.
+
+I also bring hands-on **Python-based ETL and cloud (AWS) fundamentals**, and full-stack development experience (MERN), which I use to build the internal tools and pipelines that feed the dashboards I design — a practical edge most analyst profiles don't have.
+
+- 🔎 Currently looking for **Data Analyst / BI Analyst** roles (fresher, open to remote & on-site)
+- 📊 Building my portfolio in public — see Featured Projects below
+- 🌱 Currently deepening: **advanced DAX, window functions in SQL, and dashboard storytelling**
+- 💬 Ask me about: SQL query optimization, Power BI DAX, or Excel dashboards
+
+---
+
+### 🛠️ Data Analyst Skills
+
+| Category | Skills |
+|---|---|
+| **Querying & Data** | SQL (Joins, CTEs, Window Functions, Subqueries), Excel (XLOOKUP, Pivot Tables, Power Query) |
+| **BI & Visualization** | Power BI (DAX, Data Modeling), Tableau, Matplotlib, Seaborn |
+| **Analysis** | Python (Pandas, NumPy), Data Cleaning, EDA, Statistical Analysis |
+| **Data Foundations** | ETL fundamentals, Basic Data Engineering, AWS |
+
+### 💻 Supporting Technical Skills
+
+`JavaScript` `React` `Node.js` `Express.js` `MongoDB` `Docker` `Git/GitHub`
+
+---
+
+### 🧰 Tools & Technologies
+
 <p>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
 </p>
 
-**Databases & Data Engineering**
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+---
+
+### 🎯 Featured Projects
+
+| Project | Tools | Description |
+|---|---|---|
+| 🛒 **[E-Commerce Sales Dashboard](YOUR-REPO-LINK)** | Power BI, DAX, Excel | Flagship BI project — 2,500+ row sales dataset, single-page executive dashboard with 15+ DAX measures covering sales, profit, and customer KPIs |
+| 📊 **[Sales Performance Dashboard](YOUR-REPO-LINK)** | Power BI, SQL | Regional sales trend analysis and KPI dashboard for a multi-region retailer |
+| 🏬 **[Retail Analytics Dashboard](YOUR-REPO-LINK)** | Tableau, Excel | End-to-end retail analytics dashboard supporting inventory and sales decisions |
+| ✈️ **[Airport Flight Delay Analysis](YOUR-REPO-LINK)** | Python, SQL, Tableau | Cleaned and analyzed flight operations data to identify delay patterns and causes |
+| 🔐 **[AI-Powered Firewall Detection](YOUR-REPO-LINK)** | Python, ML | Anomaly detection model for network traffic (supporting Python project) |
+| 🏠 **[AI Real Estate Platform](YOUR-REPO-LINK)** | MongoDB, Express, React, Node.js | Full-stack web app — supporting development project |
+
+> 📌 Full project list and write-ups: see [Pinned repositories] below and my repo list.
+
+---
+
+### 🎓 Education
+
+**Master of Computer Applications (MCA)** — Brindavan College, 2025
+
+### 📜 Certifications
+
+_Add certifications here as you complete them — do not list anything not yet earned._
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vijeelakshmi&show_icons=true&theme=default&count_private=true" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vijeelakshmi" height="165">
 </p>
 
-**Cloud, DevOps & Tools**
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijeelakshmi&layout=compact" height="165">
 </p>
 
-**Supporting: Full-Stack**
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs" />
+### 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijeelakshmi&theme=minimal">
 </p>
 
-<br/>
+---
 
-## 📊 GitHub Stats
+### 🎯 Career Objective
 
-<div align="center">
+Seeking a **Data Analyst / BI Analyst** role where I can apply SQL, Excel, Power BI, and Python to solve real business problems — with the ability to also build supporting tools and lightweight data pipelines when needed.
 
-<img src="https://streak-stats.demolab.com?user=vijeelakshmi&theme=tokyonight&hide_border=true"/>
+### 📬 Connect With Me
 
-</div>
-
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijeelakshmi&theme=tokyo-night&hide_border=true" width="100%" />
-
-</div>
-
-<br/>
-
-
-## 🎯 Featured Projects
-
-| Project | Tech Stack | Description | Link |
-|---|---|---|---|
-| **Sales Performance Dashboard** | Power BI, SQL | Interactive dashboard analyzing regional sales trends & KPIs | [Repo](https://github.com/vijeelakshmi) |
-| **Retail Analytics Dashboard** | Tableau, Excel | End-to-end analytics dashboard for business decision-making | [Repo](https://github.com/vijeelakshmi/Retail-Sales-Dashboard) |
-| **Airport Flight Delay Analysis** | Python, Tableau, SQL | Cleaned, transformed, and analyzed real-world datasets | [Repo](https://github.com/vijeelakshmi/Airport-Flight-Delay-Analysis) |
-| **AI-Powered Firewall Detection** | Python, Machine Learning | ML model to detect anomalous network traffic patterns | [Repo](https://github.com/vijeelakshmi/Ai-Firewall) |
-| **Ai Real Estate** | MongoDB, Express, React, Node.js | Full-stack web application with REST API | [Repo](https://github.com/vijeelakshmi/ai-real-estate) |
-
-
-> ✏️ Replace the `[Repo]` placeholder links above with your actual repository URLs so recruiters can click straight through.
-
-<br/>
-
-## 🎓 Education & Certifications
-
-- 🏫 *[Brindavan College, MCA, 2025]*
-  
-
-> ✏️ Add your real degree and certifications here — this section matters a lot for freshers.
-
-<br/>
-
-
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/vijayalakshmi0808/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://vijaya-lakshmi-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:vijaya0835@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
-**💬 "Code. Analyze. Learn. Build. Repeat."**
-📊 *Turning data into insights, and insights into decisions.*
-
-![Profile Views](https://komarev.com/ghpvc/?username=vijeelakshmi&color=2E86C1&style=flat-square)
-
-</div>
+<p>
+<a href="https://linkedin.com/in/vijayalakshmi0808"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:vijaya0835@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"></a>
+</p>
