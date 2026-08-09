@@ -1,17 +1,24 @@
 <div align="center">
 
-# Hi, I'm Vijayalakshmi R 👋
-
-### Data Analyst | Turning raw data into business decisions with SQL, Excel & Power BI
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:f093fb&height=200&section=header&text=Vijayalakshmi%20R&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Excel%20%C2%B7%20Power%20BI%20%C2%B7%20Python&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/vijayalakshmi0808">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:vijaya0835@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://github.com/vijeelakshmi">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://vijaya-lakshmi-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<br><br>
+
+<a href="https://github.com/vijeelakshmi">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=8A63F2&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+business+decisions;SQL+%C2%B7+Excel+%C2%B7+Power+BI+%C2%B7+Python+%C2%B7+Tableau;Fresher+Data+Analyst+%7C+MCA+2025;Open+to+Data+Analyst+%2F+BI+Analyst+roles" alt="Typing SVG" />
 </a>
 
 </div>
@@ -24,12 +31,12 @@ I'm a fresher **Data Analyst** (MCA, 2025) who enjoys turning messy, real-world 
 
 I also bring hands-on **Python-based ETL and cloud (AWS) fundamentals**, and full-stack development experience (MERN), which I use to build the internal tools and pipelines that feed the dashboards I design — a practical edge most analyst profiles don't have.
 
-```
-🔎  Looking for:     Data Analyst / BI Analyst roles (fresher, open to remote & on-site)
-📊  Building:        My portfolio in public — see Featured Projects below
-🌱  Deepening:       Advanced DAX, SQL window functions, dashboard storytelling
-💬  Ask me about:    SQL query optimization · Power BI DAX · Excel dashboards
-```
+| | |
+|---|---|
+| 🔎 **Looking for** | Data Analyst / BI Analyst roles (fresher, open to remote & on-site) |
+| 📊 **Building** | My portfolio in public — see Featured Projects below |
+| 🌱 **Deepening** | Advanced DAX, SQL window functions, dashboard storytelling |
+| 💬 **Ask me about** | SQL query optimization · Power BI DAX · Excel dashboards |
 
 <br>
 
@@ -37,10 +44,10 @@ I also bring hands-on **Python-based ETL and cloud (AWS) fundamentals**, and ful
 
 | Category | Skills |
 |:---|:---|
-| **Querying & Data** | SQL (Joins, CTEs, Window Functions, Subqueries) · Excel (XLOOKUP, Pivot Tables, Power Query) |
-| **BI & Visualization** | Power BI (DAX, Data Modeling) · Tableau · Matplotlib · Seaborn |
-| **Analysis** | Python (Pandas, NumPy) · Data Cleaning · EDA · Statistical Analysis |
-| **Data Foundations** | ETL Fundamentals · Basic Data Engineering · AWS |
+| 🔍 **Querying & Data** | SQL (Joins, CTEs, Window Functions, Subqueries) · Excel (XLOOKUP, Pivot Tables, Power Query) |
+| 📈 **BI & Visualization** | Power BI (DAX, Data Modeling) · Tableau · Matplotlib · Seaborn |
+| 🐍 **Analysis** | Python (Pandas, NumPy) · Data Cleaning · EDA · Statistical Analysis |
+| ⚙️ **Data Foundations** | ETL Fundamentals · Basic Data Engineering · AWS |
 
 **Supporting technical skills:** `JavaScript` `React` `Node.js` `Express.js` `MongoDB` `Docker` `Git/GitHub`
 
@@ -50,18 +57,18 @@ I also bring hands-on **Python-based ETL and cloud (AWS) fundamentals**, and ful
 
 <div align="center">
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -136,8 +143,8 @@ _Add certifications here as you complete them._
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vijeelakshmi&theme=graywhite&hide_border=true" height="165">
-
+<img src="https://github-readme-stats.vercel.app/api?username=vijeelakshmi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vijeelakshmi&theme=tokyonight&hide_border=true&background=00000000" height="165">
 
 </div>
 
@@ -145,7 +152,7 @@ _Add certifications here as you complete them._
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijeelakshmi&theme=minimal&hide_border=true" width="90%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijeelakshmi&theme=react-dark&hide_border=true&bg_color=00000000" width="90%">
 
 </div>
 
@@ -162,7 +169,11 @@ Seeking a **Data Analyst / BI Analyst** role where I can apply SQL, Excel, Power
 ### 📬 Let's Connect
 
 <a href="https://linkedin.com/in/vijayalakshmi0808"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-<a href="mailto:vijaya0835@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> 
-<a href="https://vijaya-lakshmi-portfolio.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white"> </a> </div>
+<a href="mailto:vijaya0835@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+<a href="https://vijaya-lakshmi-portfolio.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"> </a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,100:667eea&height=100&section=footer" width="100%"/>
 
 </div>
