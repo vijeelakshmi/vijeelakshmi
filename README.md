@@ -161,11 +161,8 @@ Seeking a **Data Analyst / BI Analyst** role where I can apply SQL, Excel, Power
 
 ### 📬 Let's Connect
 
-<a href="https://linkedin.com/in/vijayalakshmi0808">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:vijaya0835@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<a href="https://linkedin.com/in/vijayalakshmi0808"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+<a href="mailto:vijaya0835@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> 
+<a href="https://vijaya-lakshmi-portfolio.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white"> </a> </div>
 
 </div>
