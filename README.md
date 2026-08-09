@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Vijayalakshmi R 👋</h1>
 <h3 align="center">Data Analyst | Turning raw data into business decisions with SQL, Excel & Power BI</h3>
 
 <p align="center">
