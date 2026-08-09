@@ -1,111 +1,173 @@
-<h1 align="center">Hi, I'm Vijayalakshmi R 👋</h1>
-<h3 align="center">Data Analyst | Turning raw data into business decisions with SQL, Excel & Power BI</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/vijayalakshmi0808"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:vijaya0835@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-</p>
+# Hi, I'm Vijayalakshmi R 👋
 
----
+### Data Analyst | Turning raw data into business decisions with SQL, Excel & Power BI
 
-### 📌 About Me
+<a href="https://linkedin.com/in/vijayalakshmi0808">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:vijaya0835@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://github.com/vijeelakshmi">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+## 📌 About Me
 
 I'm a fresher **Data Analyst** (MCA, 2025) who enjoys turning messy, real-world data into dashboards and insights that support actual business decisions. My core focus is **SQL, Excel, Power BI, Python, and Tableau** — from cleaning raw data to building KPI dashboards that answer specific business questions.
 
 I also bring hands-on **Python-based ETL and cloud (AWS) fundamentals**, and full-stack development experience (MERN), which I use to build the internal tools and pipelines that feed the dashboards I design — a practical edge most analyst profiles don't have.
 
-- 🔎 Currently looking for **Data Analyst / BI Analyst** roles (fresher, open to remote & on-site)
-- 📊 Building my portfolio in public — see Featured Projects below
-- 🌱 Currently deepening: **advanced DAX, window functions in SQL, and dashboard storytelling**
-- 💬 Ask me about: SQL query optimization, Power BI DAX, or Excel dashboards
+```
+🔎  Looking for:     Data Analyst / BI Analyst roles (fresher, open to remote & on-site)
+📊  Building:        My portfolio in public — see Featured Projects below
+🌱  Deepening:       Advanced DAX, SQL window functions, dashboard storytelling
+💬  Ask me about:    SQL query optimization · Power BI DAX · Excel dashboards
+```
 
----
+<br>
 
-### 🛠️ Data Analyst Skills
+## 🛠️ Data Analyst Skills
 
 | Category | Skills |
-|---|---|
-| **Querying & Data** | SQL (Joins, CTEs, Window Functions, Subqueries), Excel (XLOOKUP, Pivot Tables, Power Query) |
-| **BI & Visualization** | Power BI (DAX, Data Modeling), Tableau, Matplotlib, Seaborn |
-| **Analysis** | Python (Pandas, NumPy), Data Cleaning, EDA, Statistical Analysis |
-| **Data Foundations** | ETL fundamentals, Basic Data Engineering, AWS |
+|:---|:---|
+| **Querying & Data** | SQL (Joins, CTEs, Window Functions, Subqueries) · Excel (XLOOKUP, Pivot Tables, Power Query) |
+| **BI & Visualization** | Power BI (DAX, Data Modeling) · Tableau · Matplotlib · Seaborn |
+| **Analysis** | Python (Pandas, NumPy) · Data Cleaning · EDA · Statistical Analysis |
+| **Data Foundations** | ETL Fundamentals · Basic Data Engineering · AWS |
 
-### 💻 Supporting Technical Skills
+**Supporting technical skills:** `JavaScript` `React` `Node.js` `Express.js` `MongoDB` `Docker` `Git/GitHub`
 
-`JavaScript` `React` `Node.js` `Express.js` `MongoDB` `Docker` `Git/GitHub`
+<br>
 
----
+## 🧰 Tools & Technologies
 
-### 🧰 Tools & Technologies
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-</p>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
+</div>
 
-### 🎯 Featured Projects
+<br>
 
-| Project | Tools | Description |
-|---|---|---|
-| 🛒 **[E-Commerce Sales Dashboard](YOUR-REPO-LINK)** | Power BI, DAX, Excel | Flagship BI project — 2,500+ row sales dataset, single-page executive dashboard with 15+ DAX measures covering sales, profit, and customer KPIs |
-| 📊 **[Sales Performance Dashboard](YOUR-REPO-LINK)** | Power BI, SQL | Regional sales trend analysis and KPI dashboard for a multi-region retailer |
-| 🏬 **[Retail Analytics Dashboard](YOUR-REPO-LINK)** | Tableau, Excel | End-to-end retail analytics dashboard supporting inventory and sales decisions |
-| ✈️ **[Airport Flight Delay Analysis](YOUR-REPO-LINK)** | Python, SQL, Tableau | Cleaned and analyzed flight operations data to identify delay patterns and causes |
-| 🔐 **[AI-Powered Firewall Detection](YOUR-REPO-LINK)** | Python, ML | Anomaly detection model for network traffic (supporting Python project) |
-| 🏠 **[AI Real Estate Platform](YOUR-REPO-LINK)** | MongoDB, Express, React, Node.js | Full-stack web app — supporting development project |
+## 🎯 Featured Projects
 
-> 📌 Full project list and write-ups: see [Pinned repositories] below and my repo list.
+<table>
+<tr>
+<td width="50%">
 
----
+### 🛒 [E-Commerce Sales Dashboard](YOUR-REPO-LINK)
+**Power BI · DAX · Excel**
+Flagship project — 2,500+ row sales dataset, single-page executive dashboard with 15+ DAX measures covering sales, profit, and customer KPIs.
 
-### 🎓 Education
+</td>
+<td width="50%">
+
+### 📊 [Sales Performance Dashboard](YOUR-REPO-LINK)
+**Power BI · SQL**
+Regional sales trend analysis and KPI dashboard for a multi-region retailer.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏬 [Retail Analytics Dashboard](YOUR-REPO-LINK)
+**Tableau · Excel**
+End-to-end retail analytics dashboard supporting inventory and sales decisions.
+
+</td>
+<td width="50%">
+
+### ✈️ [Airport Flight Delay Analysis](YOUR-REPO-LINK)
+**Python · SQL · Tableau**
+Cleaned and analyzed flight operations data to identify delay patterns and causes.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔐 [AI-Powered Firewall Detection](YOUR-REPO-LINK)
+**Python · Machine Learning**
+Anomaly detection model for network traffic. *(Supporting Python project)*
+
+</td>
+<td width="50%">
+
+### 🏠 [AI Real Estate Platform](YOUR-REPO-LINK)
+**MongoDB · Express · React · Node.js**
+Full-stack web app. *(Supporting development project)*
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🎓 Education
 
 **Master of Computer Applications (MCA)** — Brindavan College, 2025
 
-### 📜 Certifications
+## 📜 Certifications
 
-_Add certifications here as you complete them — do not list anything not yet earned._
+_Add certifications here as you complete them._
 
----
+<br>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vijeelakshmi&show_icons=true&theme=default&count_private=true" height="165">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vijeelakshmi" height="165">
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijeelakshmi&layout=compact" height="165">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=vijeelakshmi&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vijeelakshmi&theme=graywhite&hide_border=true" height="165">
 
-### 📈 Contribution Graph
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijeelakshmi&layout=compact&theme=graywhite&hide_border=true" height="165">
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijeelakshmi&theme=minimal">
-</p>
+</div>
 
----
+## 📈 Contribution Graph
 
-### 🎯 Career Objective
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijeelakshmi&theme=minimal&hide_border=true" width="90%">
+
+</div>
+
+<br>
+
+## 🎯 Career Objective
 
 Seeking a **Data Analyst / BI Analyst** role where I can apply SQL, Excel, Power BI, and Python to solve real business problems — with the ability to also build supporting tools and lightweight data pipelines when needed.
 
-### 📬 Connect With Me
+<br>
 
-<p>
-<a href="https://linkedin.com/in/vijayalakshmi0808"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:vijaya0835@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"></a>
-</p>
+<div align="center">
+
+### 📬 Let's Connect
+
+<a href="https://linkedin.com/in/vijayalakshmi0808">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:vijaya0835@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
