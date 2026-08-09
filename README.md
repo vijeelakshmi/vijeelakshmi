@@ -136,10 +136,8 @@ _Add certifications here as you complete them._
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vijeelakshmi&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="165">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijeelakshmi&theme=graywhite&hide_border=true" height="165">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijeelakshmi&layout=compact&theme=graywhite&hide_border=true" height="165">
 
 </div>
 
