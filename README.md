@@ -143,7 +143,7 @@ _Add certifications here as you complete them._
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vijeelakshmi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" height="165">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijeelakshmi&theme=tokyonight&hide_border=true&background=00000000" height="165">
 
 </div>
