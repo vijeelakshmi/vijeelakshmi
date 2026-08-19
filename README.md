@@ -133,9 +133,6 @@ Full-stack web app. *(Supporting development project)*
 
 **Master of Computer Applications (MCA)** — Brindavan College, 2025
 
-## 📜 Certifications
-
-_Add certifications here as you complete them._
 
 <br>
 
