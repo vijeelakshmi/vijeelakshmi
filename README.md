@@ -190,8 +190,8 @@ Full-stack web app. *(Supporting development project)*
 
 <div align="center">
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vijeelakshmi&theme=tokyonight&hide_border=true&background=00000000" height="165">
 
-<img src="https://streak-stats.demolab.com/?user=vijeelakshmi&theme=tokyonight&hide_border=true&background=00000000" height="165">
 
 </div>
 
