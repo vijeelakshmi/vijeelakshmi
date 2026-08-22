@@ -14,12 +14,23 @@
 <a href="https://vijaya-lakshmi-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
+<a href="https://vijayalakshmir-data-analyst-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Data_Analyst_Portfolio-8A63F2?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 
 <br><br>
 
 <a href="https://github.com/vijeelakshmi">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=8A63F2&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+business+decisions;SQL+%C2%B7+Excel+%C2%B7+Power+BI+%C2%B7+Python+%C2%B7+Tableau;Fresher+Data+Analyst+%7C+MCA+2025;Open+to+Data+Analyst+%2F+BI+Analyst+roles" alt="Typing SVG" />
 </a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:f093fb&height=3&width=1000)
 
 </div>
 
@@ -37,6 +48,14 @@ I also bring hands-on **Python-based ETL and cloud (AWS) fundamentals**, and ful
 | 📊 **Building** | My portfolio in public — see Featured Projects below |
 | 🌱 **Deepening** | Advanced DAX, SQL window functions, dashboard storytelling |
 | 💬 **Ask me about** | SQL query optimization · Power BI DAX · Excel dashboards |
+
+<br>
+
+<div align="center">
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:f093fb&height=3&width=1000)
+
+</div>
 
 <br>
 
@@ -69,6 +88,14 @@ I also bring hands-on **Python-based ETL and cloud (AWS) fundamentals**, and ful
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+<br>
+
+<div align="center">
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:f093fb&height=3&width=1000)
 
 </div>
 
@@ -129,6 +156,29 @@ Full-stack web app. *(Supporting development project)*
 
 <br>
 
+<div align="center">
+
+**🖥️ View my full case studies and dashboards in action:**
+
+<a href="https://vijaya-lakshmi-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+<a href="https://vijayalakshmir-data-analyst-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/📊_Data_Analyst_Portfolio-8A63F2?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:f093fb&height=3&width=1000)
+
+</div>
+
+<br>
+
 ## 🎓 Education
 
 **Master of Computer Applications (MCA)** — Brindavan College, 2025
@@ -155,6 +205,14 @@ Full-stack web app. *(Supporting development project)*
 
 <br>
 
+<div align="center">
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:f093fb&height=3&width=1000)
+
+</div>
+
+<br>
+
 ## 🎯 Career Objective
 
 Seeking a **Data Analyst / BI Analyst** role where I can apply SQL, Excel, Power BI, and Python to solve real business problems — with the ability to also build supporting tools and lightweight data pipelines when needed.
@@ -168,6 +226,7 @@ Seeking a **Data Analyst / BI Analyst** role where I can apply SQL, Excel, Power
 <a href="https://linkedin.com/in/vijayalakshmi0808"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 <a href="mailto:vijaya0835@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 <a href="https://vijaya-lakshmi-portfolio.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"> </a>
+<a href="https://vijayalakshmir-data-analyst-portfolio.vercel.app/"> <img src="https://img.shields.io/badge/Data_Analyst_Portfolio-Visit-8A63F2?style=for-the-badge&logo=googlechrome&logoColor=white"> </a>
 
 <br><br>
 
