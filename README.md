@@ -80,7 +80,7 @@ I also bring hands-on **Python-based ETL and cloud (AWS) fundamentals**, and ful
 <tr>
 <td width="50%">
 
-### 🛒 [E-Commerce Sales Dashboard](YOUR-REPO-LINK)
+### 🛒 [E-Commerce Sales Dashboard](https://github.com/vijeelakshmi/E-Commerce-Sales-Dashboard)
 **Power BI · DAX · Excel**
 Flagship project — 2,500+ row sales dataset, single-page executive dashboard with 15+ DAX measures covering sales, profit, and customer KPIs.
 
@@ -88,7 +88,7 @@ Flagship project — 2,500+ row sales dataset, single-page executive dashboard w
 <td width="50%">
 
 ### 📊 [Sales Performance Dashboard](YOUR-REPO-LINK)
-**Power BI · SQL**
+**Tableau · SQL**
 Regional sales trend analysis and KPI dashboard for a multi-region retailer.
 
 </td>
@@ -96,14 +96,14 @@ Regional sales trend analysis and KPI dashboard for a multi-region retailer.
 <tr>
 <td width="50%">
 
-### 🏬 [Retail Analytics Dashboard](YOUR-REPO-LINK)
+### 🏬 [Retail Sales Analytics Dashboard](https://github.com/vijeelakshmi/Retail-Sales-Dashboard)
 **Tableau · Excel**
 End-to-end retail analytics dashboard supporting inventory and sales decisions.
 
 </td>
 <td width="50%">
 
-### ✈️ [Airport Flight Delay Analysis](YOUR-REPO-LINK)
+### ✈️ [Airport Flight Delay Analysis](https://github.com/vijeelakshmi/Airport-Flight-Delay-Analysis)
 **Python · SQL · Tableau**
 Cleaned and analyzed flight operations data to identify delay patterns and causes.
 
@@ -112,14 +112,14 @@ Cleaned and analyzed flight operations data to identify delay patterns and cause
 <tr>
 <td width="50%">
 
-### 🔐 [AI-Powered Firewall Detection](YOUR-REPO-LINK)
+### 🔐 [AI-Powered Firewall Detection](https://github.com/vijeelakshmi/Ai-Firewall)
 **Python · Machine Learning**
 Anomaly detection model for network traffic. *(Supporting Python project)*
 
 </td>
 <td width="50%">
 
-### 🏠 [AI Real Estate Platform](YOUR-REPO-LINK)
+### 🏠 [AI Real Estate Platform](https://github.com/vijeelakshmi/ai-real-estate)
 **MongoDB · Express · React · Node.js**
 Full-stack web app. *(Supporting development project)*
 
