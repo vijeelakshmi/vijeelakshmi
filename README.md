@@ -195,11 +195,11 @@ Full-stack web app. *(Supporting development project)*
 
 </div>
 
-## 📈 Contribution Graph
+## 📈 GitHub Contributions
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijeelakshmi&theme=react-dark&hide_border=true&bg_color=00000000" width="90%">
+<img src="https://ghchart.rshah.org/8A63F2/vijeelakshmi" alt="Vijayalakshmi's GitHub Contributions" width="90%">
 
 </div>
 
