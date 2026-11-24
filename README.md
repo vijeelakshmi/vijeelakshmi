@@ -195,7 +195,7 @@ Full-stack web app. *(Supporting development project)*
 
 </div>
 
-## 📈 GitHub Contributions
+
 
 ## 📈 Contribution Graph
 
