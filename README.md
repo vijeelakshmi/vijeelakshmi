@@ -197,11 +197,11 @@ Full-stack web app. *(Supporting development project)*
 
 
 
-## 📈 Contribution Graph
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijeelakshmi&bg_color=ffffff&color=8A63F2&line=8A63F2&point=667eea&hide_border=true&custom_title=Vijayalakshmi%27s%20Contribution%20Graph&title_color=8A63F2&area=false" alt="Vijayalakshmi's Contribution Graph" width="90%">
+<img src="https://YOUR-OWN-DEPLOYMENT.vercel.app/graph?username=vijeelakshmi&bg_color=ffffff&color=8A63F2&line=8A63F2&point=667eea&hide_border=true&custom_title=Vijayalakshmi%27s%20Contribution%20Graph&title_color=8A63F2&area=false"
+     alt="Vijayalakshmi's Contribution Graph"
+     width="90%">
 
 </div>
 
